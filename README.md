@@ -1,6 +1,7 @@
 # 🛡️ SOC Detection Pipeline (Home Lab)
 
-This project simulates a real-world SOC detection pipeline using open-source tools in a home lab environment. Based on the MyDFIR YouTube series (Parts 1–4), it focuses on capturing endpoint telemetry, tuning detections, and mapping alerts to MITRE ATT&CK techniques using Wazuh, Sysmon, and Elasticsearch.
+This project simulates a real-world SOC detection pipeline using open-source tools in a home lab environment. This lab focuses on capturing endpoint telemetry, tuning detections, and mapping alerts to MITRE ATT&CK techniques using Wazuh, Sysmon, and Elasticsearch. 
+Based on the MyDFIR YouTube
 
 ---
 
