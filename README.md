@@ -33,7 +33,7 @@ Based on the MyDFIR YouTube
 ## 📚 Project Breakdown
 
 ### ✅ Part 1 – Initial Lab Setup
-![SIEM PIPELINE DIAGRAM](1.diagram.png)
+![SIEM PIPELINE DIAGRAM](SOC-Detection-Pipeline-Config-Analysis-Home-Lab-/1.diagram.png)
 - Set up two VMs:
   - **Ubuntu Server**: Hosts Wazuh Manager and Elasticsearch
   - **Windows 10**: Used as the monitored endpoint
