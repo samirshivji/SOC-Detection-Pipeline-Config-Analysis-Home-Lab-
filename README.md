@@ -54,10 +54,6 @@ Based on the MyDFIR YouTube
 
 <img src="5.config-hive.png" alt="Hive Config" width="500"/>
 
-*Created/Altered firewall rules*
-
-<img src="4.firewall-config.png" alt="Firewall Config" width="500"/>
-
 *Verfied Communication and Log Ingestion*
 
 <img src="wazuh+mimikatz.png" alt="Firewall Config" width="500"/>
