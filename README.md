@@ -52,7 +52,7 @@ Based on the MyDFIR YouTube
 
 *Configuring The Hive*
 
-<img src="5.config-hive" alt="Hive Config" width="500"/>
+<img src="5.config-hive.png" alt="Hive Config" width="500"/>
 
 *Created/Altered firewall rules*
 
@@ -102,5 +102,4 @@ Based on the MyDFIR YouTube
 
 ---
 
-## 📂 Repository Structure
 
