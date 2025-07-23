@@ -43,18 +43,23 @@ Based on the MyDFIR YouTube
 - Verified communication and log ingestion using the Wazuh Dashboard
 
 *Initial project diagram*
+
 <img src="1.diagram.png" alt="Project Diagram" width="500"/>
 
 *Created/Altered firewall rules*
+
 <img src="4.firewall-config.png" alt="Firewall Config" width="500"/>
 
 *Configuring The Hive*
+
 <img src="5.config-hive" alt="Hive Config" width="500"/>
 
 *Created/Altered firewall rules*
+
 <img src="4.firewall-config.png" alt="Firewall Config" width="500"/>
 
 *Verfied Communication and Log Ingestion*
+
 <img src="wazuh+mimikatz.png" alt="Firewall Config" width="500"/>
 
 ---
@@ -70,6 +75,7 @@ Based on the MyDFIR YouTube
   - DLL loading
 
 *Installing sysmon through admin powershell*
+
 <img src="2.powershell-install-sysmon.png" alt="Sysmon" width="500"/>
 
 ---
@@ -81,6 +87,7 @@ Based on the MyDFIR YouTube
 - Simulated suspicious behavior to trigger built-in MITRE-mapped detections
 
 *Logged Mimikatx on Wazuh Secuirty Events Dashboard*
+
 <img src="7.logged-mimikatz.png" alt="mimikatz" width="500"/>
 
 ---
